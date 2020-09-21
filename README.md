@@ -14,7 +14,7 @@ _________
   ![Liquid Lighting](https://i.stack.imgur.com/3mM4V.gif)
   
   
-  special thanks thanks to:
+  special thanks to:
   
   Fabrice Neyret from France
   
